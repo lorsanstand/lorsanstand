@@ -12,7 +12,6 @@ I like building things that actually work — from APIs and services to self-hos
 
 * Go — my main language
 * Python — backend & automation
-* C/C++ — microcontrollers and embedded experiments
 
 **Backend**
 
@@ -55,7 +54,7 @@ Things I'm trying to get better at:
 
 ### 📌 Projects
 
-#### [HomeOps Hub](https://github.com/lorsanstand/HomeOps-Hub)
+#### [gontrol](https://github.com/lorsanstand/gontrol)
 
 A self-hosted hub + agent system for managing multiple machines.
 
@@ -80,7 +79,6 @@ I'm constantly experimenting with new ideas, so this profile will probably chang
 ### 🌐 Links
 
 * GitHub: [@lorsanstand](https://github.com/lorsanstand)
-* Website: [lorsanstand.ru](https://lorsanstand.ru)
 
 ---
 
